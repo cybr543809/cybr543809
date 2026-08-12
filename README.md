@@ -1,15 +1,6 @@
 # cybr
 
-> learning to code, breaking things, fixing them again.
-
----
-
-### 🧠 currently learning
-
-- 💎 Ruby
-- 🌐 Web development
-- 🤖 Discord bots
-- 🖥️ Server hosting
+> Learning Ruby...
 
 ### 🛠️ stuff I use
 
