@@ -2,8 +2,6 @@
 
 > Learning Ruby...
 
-### 🛠️ stuff I use
-
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
