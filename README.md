@@ -21,14 +21,6 @@
 
 ---
 
-### 📌 projects
-
-- 🎮 **EternalSMP** — Minecraft survival server
-- 💎 **Ruby projects** — learning & experimenting
-- 🤖 **Discord projects** — bots, integrations & tools
-
----
-
 <p align="center">
   <sub>built with curiosity & probably too much caffeine</sub>
 </p>
